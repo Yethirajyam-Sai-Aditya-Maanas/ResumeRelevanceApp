@@ -2,7 +2,7 @@
 
 ---
 
-### **`README.md`** (generic template)
+### **`README.md`** 
 
 
 # Automated Resume Relevance Checker
